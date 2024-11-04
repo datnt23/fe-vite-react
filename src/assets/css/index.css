@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #40699d;
+  --secondary: #3d9d69;
+  --background: #ffffff;
+  --foreground: #ededed;
+  background-color: var(--primary);
+}
+
+body {
+  margin: 0;
+}
